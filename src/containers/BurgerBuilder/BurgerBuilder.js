@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Aux from '../../hoc/Auxs';
-import Burger from '../../components/Layout/Burger/Burger';
-import BuilControls from '../../components/Layout/Burger/BuildControls/BuildControls';
+import Burger from '../../components/Burger/Burger';
+import BuilControls from '../../components/Burger/BuildControls/BuildControls';
 
 const INGREDIENT_PRICES = {
   salad: 0.5,
